@@ -1,0 +1,17 @@
+{
+  "name": "news-api",
+  "version": "1.0.0",
+  "description": "News API for RollCall QR",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["API", "news", "RollCall QR"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
